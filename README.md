@@ -18,10 +18,11 @@ The Online Test and Question Management System aims to support the evaluation pr
 
 ## 🛠️ Technologies Used
 
-- **Languages:** [Python, Java, etc.]
-- **Frameworks:** [Spring Boot, Django, etc.]
-- **Database:** MySQL/MariaDB
-- **Tools:** Git, Docker, Jenkins
+- **Languages:** [Java.]
+- **Frameworks:** [ Java Servlet API]
+- **Server:** Apache Tomcat
+- **Database:** MySQL
+- **Tools:** Git
 
 ## 🔧 Installation
 
@@ -30,14 +31,8 @@ The Online Test and Question Management System aims to support the evaluation pr
    git clone <repo_url>
    cd <repo_directory>
    ```
-
-2. **Configure the database:**
-   - Create a new database in MariaDB and update configuration details in the `application.properties` file.
-
-3. **Run the project:**
-   ```bash
-   ./mvnw spring-boot:run
-   ```
+2. **Read the installation instructions file:**
+   [huong_dan_cai_dat.pdf](huong_dan_cai_dat.pdf)
 
 ## 🕵️ Usage
 
@@ -56,22 +51,10 @@ project-root/
 |-- db/                     # Database migration files
 |-- README.md               # Documentation
 ```
-
-## 🎨 Demo
-
-[Insert link to demo or screenshots here if available]
-
 ## 📈 Conclusion
 
 The project successfully designed and implemented a basic online test management system. In the future, the team intends to expand functionality by integrating AI for question suggestions and advanced result analysis.
 
 ## 📢 Contact Information
-
-- **Project Members:**
-  - Dương Võ Hoàng Hùng - 102210315
-  - Nguyễn Khắc Nhân Tâm - 102210325
-  - Trần Tấn Thịnh - 102210329
-  - Phan Nguyễn Tường Vy - 102210337
-- **Instructor:** TS. Truong Ngoc Chau
-- **Email:** contact@example.com
-- **Phone:** +84 123 456 789
+- **Email:** tttiuem2k3@gmail.com
+- **Phone:** +84 329966939
