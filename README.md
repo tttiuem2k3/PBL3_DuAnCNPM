@@ -32,7 +32,7 @@ The Online Test and Question Management System aims to support the evaluation pr
    cd <repo_directory>
    ```
 2. **Read the installation instructions file:**
-   [huong_dan_cai_dat.pdf](huong_dan_cai_dat.pdf)
+   [Description.pdf](Description.pdf)
 
 ## 🕵️ Usage
 
