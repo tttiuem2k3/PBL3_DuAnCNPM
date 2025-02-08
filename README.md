@@ -18,8 +18,8 @@ The Online Test and Question Management System aims to support the evaluation pr
 
 ## 🛠️ Technologies Used
 
-- **Languages:** [Java.]
-- **Frameworks:** [ Java Servlet API]
+- **Languages:** Java
+- **Frameworks:** Java Servlet API
 - **Server:** Apache Tomcat
 - **Database:** MySQL
 - **Tools:** Git
