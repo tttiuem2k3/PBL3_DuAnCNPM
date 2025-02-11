@@ -28,8 +28,9 @@ The Online Test and Question Management System aims to support the evaluation pr
 
 1. **Clone the repository:**
    ```bash
-   git clone <repo_url>
-   cd <repo_directory>
+   cd ExamOnline
+   git clone https://github.com/tttiuem2k3/PBL3_Online-test-system.git
+
    ```
 2. **Read the installation instructions file:**
    [Description.pdf](Description.pdf)
@@ -56,5 +57,6 @@ project-root/
 The project successfully designed and implemented a basic online test management system. In the future, the team intends to expand functionality by integrating AI for question suggestions and advanced result analysis.
 
 ## 📢 Contact Information
-- **Email:** tttiuem2k3@gmail.com
-- **Phone:** +84 329966939
+- 📧 Email: tttiuem2k3@gmail.com
+- 👥 Linkedin: [Thịnh Trần](https://www.linkedin.com/in/thinh-tran-04122k3/)
+- 💬 Zalo: +84 329966939
